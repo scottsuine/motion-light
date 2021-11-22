@@ -1,6 +1,6 @@
 blueprint:
   name: Turn off unoccupied lights
-  source_url: https://gist.github.com/cobryan05/
+  source_url: https://github.com/scottsuine/motion-light/blob/main/blueprint.yml
   description: Turn off a light that has been left on with no motion
   domain: automation
   input:
